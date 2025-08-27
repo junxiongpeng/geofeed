@@ -1,0 +1,2 @@
+# geofeed
+Publishing a Geofeed
