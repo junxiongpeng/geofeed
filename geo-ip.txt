@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
-45.87.52.0/24,MO,Macao,Macao,999078
-45.135.44.0/24,MO,Macau,Macao,999078
-193.5.46.0/24,MO,MO-MO,Macao,999078
-193.5.24.0/24,MO,MO-MO,Macao,999078
+45.87.52.0/24,CN,CN-MO,Macao,999078
+45.135.44.0/24,CN,CN-MO,Macao,999078
+193.5.46.0/24,CN,CN-MO,Macao,999078
+193.5.24.0/24,CN,CN-MO,Macao,999078
